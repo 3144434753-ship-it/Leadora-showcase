@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.gitattributes
+!README.md
+!docs/
+docs/*
+!docs/TIMELINE.md
+!docs/PROGRESS.md
